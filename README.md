@@ -24,4 +24,4 @@ Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e modifi
 
 ---
 
-Vale resaltar que é uma coisa básica esse projeto, com o tempo vou aprimorando.
+Vale resaltar que esse projeto é bem básico, com o tempo vou aprimorando.
