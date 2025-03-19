@@ -12,13 +12,6 @@ O objetivo principal foi aprimorar habilidades em **desenvolvimento web**, aplic
 - Estilização avançada com CSS
 - Acessibilidade e experiência do usuário
 
-## 🔧 Como Executar o Projeto
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   ```
-2. Acesse a pasta do projeto e abra o arquivo `index.html` no navegador.
-
 ## 📄 Licença
 Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e modificá-lo!
 
