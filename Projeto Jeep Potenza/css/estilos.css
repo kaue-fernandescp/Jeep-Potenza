@@ -197,10 +197,12 @@ background-image: url(../img/instagram.png);
 
 .lado {
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .lado div {
-    width: 40%;
+    width: 30%;
     height: 400px;
     padding: 10px;
     margin: 10px;
@@ -209,6 +211,7 @@ background-image: url(../img/instagram.png);
 }
 
 .lado img {
+    width: 560px;
     height: 400px;
 }
 
